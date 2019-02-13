@@ -1,0 +1,11 @@
+name: sstat
+channels:
+	- conda-forge
+dependencies:
+	- python=3.6
+	- numpy
+	- scipy
+	- sklearn
+	- pandas
+	- jupyter
+	- matplotlib
