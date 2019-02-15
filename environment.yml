@@ -1,11 +1,12 @@
 name: sstat
 channels:
-	- conda-forge
+    - conda-forge
 dependencies:
-	- python=3.6
-	- numpy
-	- scipy
-	- sklearn
-	- pandas
-	- jupyter
-	- matplotlib
+    - python=3.6
+    - numpy
+    - scipy
+    - scikit-learn
+    - pandas
+    - xlrd
+    - jupyter
+    - matplotlib
